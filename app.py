@@ -30,4 +30,4 @@ else:
         
     print('\nHey! You did an amazing job')
     print("Your score is - ", score)
-    print("Your score percentage is - ", score / 4 * 100)
+    print("Your score percentage is - ", score / 4 * 100 )
